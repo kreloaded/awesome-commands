@@ -1,5 +1,1 @@
 master commit
-
-A - my_branch first commit
-
-B - my_branch second commit
